@@ -2,7 +2,8 @@
 
 
 def reverse_each_word(sentence)
+  sentence = []
   sentence.each do |sentences|
-    return sentences.reverse
+    sentences = sentence.reverse
   end
 end
