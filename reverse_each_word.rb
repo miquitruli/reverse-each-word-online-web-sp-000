@@ -8,4 +8,3 @@ def reverse_each_word(sentence)
   end
   return sentences.reverse
 end
-
